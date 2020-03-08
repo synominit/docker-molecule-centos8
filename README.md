@@ -2,7 +2,7 @@
 
 [![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-centos8/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-centos8)
 
-
+[![Build Status](https://travis-ci.com/synominit/docker-molecule-centos8.svg?branch=master)](https://travis-ci.com/synominit/docker-molecule-centos8)
 
 CentOS 8 Docker container for Ansible playbook and role testing.
 
