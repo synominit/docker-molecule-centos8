@@ -1,4 +1,4 @@
-# CentOS 8 Ansible Test Image
+# CentOS 8 Molecule Test Image
 
 [![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-centos8/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-centos8)
 
