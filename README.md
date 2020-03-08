@@ -1,5 +1,7 @@
 # CentOS 8 Ansible Test Image
 
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-centos8/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-centos8)
+
 
 
 CentOS 8 Docker container for Ansible playbook and role testing.
@@ -22,7 +24,7 @@ This image is built on Docker Hub automatically any time the upstream OS contain
 
   1. [Install Docker](https://docs.docker.com/engine/installation/).
   2. `cd` into this directory.
-  3. Run `docker build -t centos8-ansible .`
+  3. Run `docker build -t molecule-centos8 .`
 
 > Note: Switch between `master` and `testing` depending on whether you want the extra testing tools present in the resulting image.
 
